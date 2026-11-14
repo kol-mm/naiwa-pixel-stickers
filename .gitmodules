@@ -1,0 +1,3 @@
+[submodule "skills/naiwa-pixel-wallpapers"]
+	path = skills/naiwa-pixel-wallpapers
+	url = https://github.com/NaiwaPixel/naiwa-pixel-wallpapers.git

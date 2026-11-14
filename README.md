@@ -26,3 +26,7 @@ python scripts/check_gif.py assets/cat-knead.gif
 ```
 
 原创制作说明和脚本采用 GPLv3。角色原图和示例动图各有自己的授权说明。[开源协议](LICENSE) · [素材说明](assets/NOTICE.md)
+
+## 奶系桌面壁纸
+
+要把同一批角色做成桌面动态壁纸，可以使用另一份 Skill。它收录了横幅取景、角色姿势还原和视频循环检查，并附数字博物馆的动态预览。[本仓库收录的版本](skills/naiwa-pixel-wallpapers) · [组织中的最新版本](https://github.com/NaiwaPixel/naiwa-pixel-wallpapers)
