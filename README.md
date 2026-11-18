@@ -25,8 +25,12 @@ python -m pip install Pillow
 python scripts/check_gif.py assets/cat-knead.gif
 ```
 
-原创制作说明和脚本采用 GPLv3。角色原图和示例动图各有自己的授权说明。[开源协议](LICENSE) · [素材说明](assets/NOTICE.md)
+## 开源许可
+
+原创制作说明、脚本、工具配置及原创帧数据采用 MIT 许可，允许商用、修改、再分发和销售副本。复制或分发这些内容或其实质性部分时，须保留版权声明和许可全文。角色原图和示例动图各按自身授权使用，不属于这次 MIT 授权的范围。[完整协议](LICENSE) · [素材说明](assets/NOTICE.md)
+
+本次变更不撤销此前版本已授予的 GPL-3.0-only 权利。
 
 ## 奶系桌面壁纸
 
-要把同一批角色做成桌面动态壁纸，可以使用另一份 Skill。它收录了横幅取景、角色姿势还原和视频循环检查，并附数字博物馆的动态预览。[本仓库收录的版本](skills/naiwa-pixel-wallpapers) · [组织中的最新版本](https://github.com/NaiwaPixel/naiwa-pixel-wallpapers)
+要把同一批角色做成桌面动态壁纸，可以使用另一份 Skill。它收录了横幅取景、角色姿势还原和视频循环检查，并附数字博物馆的动态预览。[本仓库收录的版本](skills/naiwa-pixel-wallpapers) · [壁纸 Skill 仓库](https://github.com/kol-mm/naiwa-pixel-wallpapers)
